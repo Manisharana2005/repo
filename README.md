@@ -37,14 +37,7 @@ Learn with me through hands-on videos:
 - [FreeCodeCamp: JavaScript Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - [FreeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
  
----
- 
-## 💬 Book a 1-on-1 Coding Session
- 
-Let’s solve bugs, learn new tech, or level up your skills together:  
-[📅 Book a Session](https://calendly.com/jaycodingtutor/30min)
- 
----
+
  
 ## 🧑‍💻 Hire Me & Connect
  
