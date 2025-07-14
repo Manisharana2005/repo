@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm MANISHA RANA
+# 👋 Hi there, I'm MANISHA RANA....
  
 I'm a front-end enthusiast, and a newly joined engineer at **Cognizant Technology Solutions**. Passionate about turning ideas into clean, responsive websites—and helping others learn to do the same!
  
