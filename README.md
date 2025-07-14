@@ -25,4 +25,4 @@ Fiverr
 Codementor
 Stack Overflow
 Jay's Coding Channel on YouTube
-Medium Blog ← replace this with your actual Medium URL
+Medium Blog 
